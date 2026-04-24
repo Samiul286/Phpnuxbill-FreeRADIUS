@@ -1,4 +1,4 @@
-# freeradius-config
+# Phpnuxbill-FreeRADIUS
 PHPNuxBill Installation Shell Script, this script will guide you through the installation and configuration of the following components:
 - LAMP stack (Linux, Apache, MySQL/MariaDB, PHP 8.2+)               
 * FreeRADIUS for authentication and authorization          
